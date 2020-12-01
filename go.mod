@@ -1,3 +1,3 @@
-module github.com/sethvargo/go-password
+module github.com/jinjaghost/go-password
 
-go 1.14
+go 1.15
